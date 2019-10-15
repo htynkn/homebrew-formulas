@@ -1,9 +1,9 @@
 class Flutter < Formula
   desc "Build beautiful native apps in record time"
   homepage "https://flutter.io/"
-  version "v1.7.8+hotfix.3"
-  url "https://storage.flutter-io.cn/flutter_infra/releases/stable/macos/flutter_macos_v1.7.8+hotfix.3-stable.zip"
-  sha256 "1bd5d165c79efebfba39e4602d6e07e74b40798630eb7173caedf0f664c53035"
+  version "v1.9.1+hotfix.4"
+  url "https://storage.flutter-io.cn/flutter_infra/releases/stable/macos/flutter_macos_v1.9.1+hotfix.4-stable.zip"
+  sha256 "9bee10962848b138a0e47764de270123444fae35f6b0dc44615560eff633c634"
   
   bottle :unneeded
 
